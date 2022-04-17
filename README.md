@@ -1,10 +1,9 @@
-<img src="https://i.ibb.co/P67gpk1/Untitled-Design.png" width="100%">
 <h1 align="center">Hi 👋, I'm Md. Sakin Hossain</h1>
 <h3 align="center">A passionate learner...</h3>
 
 - 📫 How to reach me **info.sakinh@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ovNx9EnEtKwcSNXOoamV-JeH_t__-BDO/view?usp=sharing)
+<!-- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ovNx9EnEtKwcSNXOoamV-JeH_t__-BDO/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
